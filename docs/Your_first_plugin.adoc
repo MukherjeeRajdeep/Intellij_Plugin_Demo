@@ -1,0 +1,14 @@
+== 💥 Your first plugin
+
+. Project Structure
+. build.gradle
+. plugin.xml
+. Extensions
+. Actions
+. Run IDE task
+. Internal Actions - UI Inspector
+
+{nbsp} +
+
+* 💡 link:../Make_IntelliJ_IDEA_your_own.adoc[Main]
+* ➡ link:Key_message.adoc[Next]
